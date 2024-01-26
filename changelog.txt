@@ -1,0 +1,6 @@
+==== default ====
+spark
+index.php
+app/config/contstans.php
+app/config/app.php
+app/config/paths.php

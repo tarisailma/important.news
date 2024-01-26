@@ -1,0 +1,1 @@
+{Download|Get} %query% MP3 {Free|For Free|Complimentary|For Nothing|Courtesy|Free Of Charge} in %site_name% uploaded by %channelTitle%. The %slug% have {%duration%|%dislikeCount%|%publishedAt%|%createdAt%} and {%ptsTime%|%size%|%viewCount%|%likeCount%}. Details of %title% MP3 check it out.
